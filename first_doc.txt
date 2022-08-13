@@ -1,1 +1,2 @@
 This is my first document
+I want to check how commit works
